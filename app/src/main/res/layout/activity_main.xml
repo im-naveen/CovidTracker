@@ -459,7 +459,7 @@
                     app:cardElevation="4dp">
 
                     <LinearLayout
-                        android:id="@+id/activity_main_statewise_lin"
+                        android:id="@+id/statewise"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:background="?android:attr/selectableItemBackground"
@@ -507,7 +507,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/activity_main_world_textview"
+                            android:id="@+id/world_textview"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:gravity="center"
